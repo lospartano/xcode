@@ -16,6 +16,8 @@ int main(int argc, const char * argv[])
     
     // try to insert some comments
     // added the first comment
+    // added a third comment for the new branch
+    
     return 0;
 }
 
