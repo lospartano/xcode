@@ -15,6 +15,7 @@ int main(int argc, const char * argv[])
     printf("Hello, World!\n");
     
     // try to insert some comments
+    // added the first comment
     return 0;
 }
 
