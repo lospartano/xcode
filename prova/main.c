@@ -16,6 +16,7 @@ int main(int argc, const char * argv[])
     
     // try to insert some comments
     // added the first comment
+    // add only for master
     return 0;
 }
 
